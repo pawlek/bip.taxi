@@ -55,5 +55,4 @@
 	.price{
 		background: red;
 	}
-	
 </style>

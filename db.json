@@ -1,0 +1,12 @@
+{
+  "destinations": [
+    {
+    	"id": 1,
+    	"title": "Ljubljana City - Ljubljana Airport",
+		"price": 25,
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
